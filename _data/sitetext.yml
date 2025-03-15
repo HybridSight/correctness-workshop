@@ -10,8 +10,10 @@
 # English (default)
 # -----------------
 header:
-  title: November 9-10, 2023
+  title: November 4-7, 2025
   text:  Workshop on Correctness and Reproducibility for Climate and Weather Software
+         *in conjunction with*
+         Tutorial: Rigor and Reasoning in Research Software 
   button: Program (Slides & Recordings)
   buttonlink: "#program"
 
